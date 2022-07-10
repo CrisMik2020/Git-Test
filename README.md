@@ -5,6 +5,7 @@ Some description!
 ## Subheader
 
 Watch tutorial on youtube
-Update
-Update2
-Update3
+
+## Local Development
+
+1.Open index.html in your browser
